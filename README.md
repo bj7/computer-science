@@ -1,4 +1,4 @@
-![Open Source Society University (OSSU) This is for personal pleasure and refreshers](http://i.imgur.com/kYYCXtC.png)
+![For personal pleasure and refreshers](http://i.imgur.com/kYYCXtC.png)
 
 <h3 align="center">Open Source Society University</h3>
 <p align="center">
